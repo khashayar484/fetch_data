@@ -36,8 +36,6 @@ client = Client(api_key, api_secret)
 
 # client = Client('api_key' , 'api_secret')
 
-client = Client('S1mmH1S2Mxxv9st8fbXuQwiVT8zBcDjLyfT5kVVZzirLEsCJyhT4mP0ydo47QEYD' , 'iUhnHolX3BPUTja4l6f36c7FUaPfNyMoORz3ybAVt6WVINWG2d7koEJkscZrcfEr')  ## khashayar.binpar1992
-
 class api():
     def __init__(self ):
         self.coins_list = []
