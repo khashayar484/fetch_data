@@ -21,7 +21,7 @@ from binance.client import Client
 from tkinter.ttk import Frame, Button, Entry, Style
 from tkinter import messagebox
 
-client = Client('UUH1nlQxWwMGVyQJysJcWeYZf9SdgfDzLJOldIC0QVrioFnqXRhdZKMZEh6hJGkx', 'Kwg2hIDyidwNt9BuBL22TazN2LrDDBq0bqzuQHzD1lmpgW6sLAQN8Ov2FWhyz4v3') 
+
 
 class api():
     def __init__(self ):
