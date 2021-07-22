@@ -8,7 +8,7 @@ before the start, you need to register in binance.com and get api_key and api_se
 
 
 <img src="https://user-images.githubusercontent.com/54494078/126708454-b060d01a-3d3f-45b6-af63-552eeb09eda4.PNG" width="300" height="300" >
-_dowload hourly data for litecoin for 100 days_
+*dowload hourly data for litecoin for 100 days*
 
 <img src="https://user-images.githubusercontent.com/54494078/126708485-7ead0442-3d36-40ed-98d4-cc04bac56421.png" width="300" height="300" >
 _by clicking on plot butto you can see the plot_
