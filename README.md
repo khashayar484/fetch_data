@@ -6,12 +6,11 @@ before the start, you need to register in binance.com and get api_key and api_se
 
 **client = Client(api_key, api_secret)**
 
-
+*here i download litecoin hourly data for 100 days*
 <img src="https://user-images.githubusercontent.com/54494078/126708454-b060d01a-3d3f-45b6-af63-552eeb09eda4.PNG" width="300" height="300" >
-* here i download litecoin hourly data for 100 days *
+*by clicking on plot butto you can see the plot*
 <img src="https://user-images.githubusercontent.com/54494078/126708485-7ead0442-3d36-40ed-98d4-cc04bac56421.png" width="300" height="300" >
-* by clicking on plot butto you can see the plot *
+*you can see your wallet account*
 <img src="https://user-images.githubusercontent.com/54494078/126708476-83869867-31a5-4ab2-b30e-e00c137ecfc0.PNG" width="300" height="300">
-* you can see your wallet account *
+*you can save data*
 <img src="https://user-images.githubusercontent.com/54494078/126708489-c89e52b9-8dd8-4d3d-af7f-0b4291896f14.PNG" width="300" height="300">
-* you can save data*
