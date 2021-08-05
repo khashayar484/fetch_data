@@ -10,15 +10,6 @@ from binance.client import Client
 from tkinter.ttk import Frame, Button, Entry, Style
 from tkinter import messagebox
 
-"""
-This bot contains 2 classes, one (API) for getting data from Binance API you can install it by "pip: install python-binance"
-by using this class you can access available coins in Binance market also you can use get daily, hourly,minutely coin data.
-another class GUI is a class which inherence from API, you can plot and save data to .xlsx from, and also you can see your balance 
-account wallet. 
-
-before the start, you need to register in binance.com and get api_key and api_secret:
-client = Client(api_key, api_secret)
-"""
 
 # client = Client('api_key' , 'api_secret')
 
